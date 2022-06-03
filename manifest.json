@@ -1,6 +1,6 @@
 {
-  "name": "tax-protocol-example",
-  "vendor": "vtex",
+  "name": "tax-provider-example",
+  "vendor": "bernardoio",
   "version": "0.1.4",
   "title": "Tax Protocol Example",
   "description": "Reference app for Tax Protocol Services",

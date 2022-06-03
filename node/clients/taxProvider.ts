@@ -20,8 +20,8 @@ export class TaxProvider extends ExternalClient {
         id: '0',
         taxes: [
           {
-            name: 'TAX 1',
-            value: 100,
+            name: 'Taxa do Bernardo',
+            value: 150,
           },
         ],
       },
